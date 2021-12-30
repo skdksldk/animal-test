@@ -1,0 +1,14 @@
+/* 버튼 공통 스타일 */
+button {
+    display: flex;
+    align-items: center;
+    font-family: 'GmarketSansBold';
+    font-size: 20px;
+    color: #5B2386;
+    background-color: #FCEE21;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 40px;
+    cursor: pointer;
+    word-break: keep-all;
+}
